@@ -28,7 +28,6 @@ The aim is to uncover hidden performance patterns and predict whether a student 
 
 ## 🧠 Machine Learning Workflow
 
-```mermaid
 flowchart TD
 A[Load Dataset] --> B[Feature Encoding & Cleaning]
 B --> C[Standard Scaling]
